@@ -1,0 +1,14 @@
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\bin\Debug\netcoreapp3.1\Inlämningsuppgift butik.exe
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\bin\Debug\netcoreapp3.1\Inlämningsuppgift butik.deps.json
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\bin\Debug\netcoreapp3.1\Inlämningsuppgift butik.runtimeconfig.json
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\bin\Debug\netcoreapp3.1\Inlämningsuppgift butik.runtimeconfig.dev.json
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\bin\Debug\netcoreapp3.1\Inlämningsuppgift butik.dll
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\bin\Debug\netcoreapp3.1\Inlämningsuppgift butik.pdb
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\obj\Debug\netcoreapp3.1\Inlämningsuppgift butik.csprojAssemblyReference.cache
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\obj\Debug\netcoreapp3.1\Inlämningsuppgift butik.AssemblyInfoInputs.cache
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\obj\Debug\netcoreapp3.1\Inlämningsuppgift butik.AssemblyInfo.cs
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\obj\Debug\netcoreapp3.1\Inlämningsuppgift butik.csproj.CoreCompileInputs.cache
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\obj\Debug\netcoreapp3.1\Inlämningsuppgift butik.dll
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\obj\Debug\netcoreapp3.1\Inlämningsuppgift butik.pdb
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\obj\Debug\netcoreapp3.1\Inlämningsuppgift butik.genruntimeconfig.cache
+C:\Plushogskolan\programmeringsteknik-c\Inlämningsuppgift butik\Inlämningsuppgift butik\bin\Debug\netcoreapp3.1\Movies.csv
